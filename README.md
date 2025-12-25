@@ -8,5 +8,11 @@ The main goal of this project was to analyze customer demographics and purchasin
 ## Tools
 Tools: MS Excel (Power Query for cleaning, Pivot Tables for analysis, and dynamic Dashboard creation with Slicers).
 
-
+## Questions (KPIs)
+The analysis focused on answering the following Key Performance Indicators:
+* What is the relationship between average income and purchase decisions across genders?
+* How does customer commute distance influence the likelihood of a purchase?
+* Which age brackets contribute most to the total number of orders?
+* Which marital status, region, and education levels are most likely to buy?
+* Dashboard Interaction: <a href="https://github.com/Saniida-Mim-67/Data-Analysis-Dashboard/blob/main/Screenshot%20(098).png"> View Dashboard </a>
 
