@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-I devised an extensive project in Excel, which included the creation of multiple dashboards and tables for data analysis. This procedure represented multiple phases, such as data preprocessing, cleaning, and visualization.
+# Bike Buyers Purchase Analysis: Interactive Excel Dashboard
+## Project Objective
+The main goal of this project was to analyze customer demographics and purchasing behaviors to identify key trends and drivers for bike purchases. This analysis helps inform targeted marketing strategies to increase sales and optimize customer outreach. The dashboard visually presents insights related to income, marital status, gender, region, education, and commute distance.
