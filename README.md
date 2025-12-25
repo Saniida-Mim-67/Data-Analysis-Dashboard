@@ -16,3 +16,13 @@ The analysis focused on answering the following Key Performance Indicators:
 * Which marital status, region, and education levels are most likely to buy?
 * Dashboard Interaction: <a href="https://github.com/Saniida-Mim-67/Data-Analysis-Dashboard/blob/main/Screenshot%20(098).png"> View Dashboard </a>
 
+## Process
+* Data Cleaning & Validation: Verified data for missing values and anomalies, ensuring consistency in data types and formats.
+* Pivot Table Creation: Generated several pivot tables to summarize data and visualize relationships between different columns to answer the defined KPIs.
+* Interactive Dashboard: Consolidated all pivot tables and charts into a single, dynamic dashboard with interactive slicers (Marital Status, Region, Education) for instant data filtering and drill-down analysis.
+
+## Dashboard
+<img width="966" height="581" alt="Screenshot (098)" src="https://github.com/user-attachments/assets/0df19400-bb07-459f-83c0-301b2646ce8d" />
+
+
+
