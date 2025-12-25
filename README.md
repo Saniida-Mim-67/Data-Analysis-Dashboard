@@ -24,5 +24,23 @@ The analysis focused on answering the following Key Performance Indicators:
 ## Dashboard
 <img width="966" height="581" alt="Screenshot (098)" src="https://github.com/user-attachments/assets/0df19400-bb07-459f-83c0-301b2646ce8d" />
 
+## Project Insights 
+Based on the dashboard analysis:
+* Gender and Income: On average, Male customers have a slightly higher average income (approx. $64,000) compared to female customers (approx. $62,500). The overall number of 'Yes' purchases appears balanced between genders.
+* Commute Distance: The highest volume of total purchases occurs in the 0-1 Miles bracket. A key insight is that the 5-10 Miles segment shows a very high conversion rate (more 'Yes' responses than 'No' responses), identifying this as a high-potential target market.
+* Age Brackets: The Middle Age customer segment accounts for the vast majority of all bike orders, making them the primary demographic focus.
+* Region/Education: The dashboard interaction allows isolating specific demographics, such as identifying if North American customers with a Bachelor's degree are high-value targets when married.
+
+## Final Conclusion:
+To maximize sales, a strategic marketing plan should prioritize targeting middle-aged adults who fall within the 5-10 miles commute distance bracket, as this group exhibits a strong propensity to purchase bikes. Campaigns should leverage the dynamic filtering capability of the dashboard to create hyper-targeted messaging for specific regions and education levels.
+
+
+
+
+
+
+
+
+
 
 
